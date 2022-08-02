@@ -1,0 +1,31 @@
+{
+  "global": {
+    "direction": "ltr",
+    "align": "left",
+    "appName": "Tehran University",
+    "menu": "MENU",
+    "search": "SEARCH",
+    "exit": "EXIT",
+    "desktop": "USER DESKTOP",
+    "bag": "USER BAG",
+    "users": "USERS",
+    "reports": "REPORTS",
+    "mails": "MAILS",
+    "persons": "PEOPLE",
+    "submit": "REGISTER",
+    "reset": "NEW ROW",
+    "operation": "OPERATION",
+    "update": "UPDATE",
+    "delete": "DELETE"
+  },
+  "person": {
+    "cardHeader": "PERSON MANAGEMENT",
+    "id": "ID",
+    "firstName": "name",
+    "firstNameValidation": "Enter Name",
+    "lastName": "LAST NAME",
+    "lastNameValidation": "Enter LAST NAME",
+    "nationalCode": "NATIONAL CODE",
+    "nationalCodeValidation": "ENTER NATIONAL CODE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "global": {
+    "direction": "rtl",
+    "align": "right",
+    "appName": "دانشگاه تهران",
+    "menu": "منو",
+    "search": "جستجو",
+    "exit": "خروج",
+    "desktop": "میز کار کاربر",
+    "bag": "سبد خرید",
+    "users": "کاربران",
+    "reports": "گزارشات",
+    "mails": "نامه ها",
+    "persons": "اشخاص",
+    "submit": "ثبت اطلاعات",
+    "reset": "ورود اطلاعات جدید",
+    "operation": "عملیات",
+    "update": "ویرایش",
+    "delete": "حذف"
+  },
+  "person": {
+    "cardHeader": "مدیریت اشخاص",
+    "id": "شمارگان",
+    "firstName": "نام",
+    "firstNameValidation": "نام را وارد کنید",
+    "lastName": "نام خانوادگی",
+    "lastNameValidation": "نام خانوادگی را وارد کنید",
+    "nationalCode": "کد ملی",
+    "nationalCodeValidation": "کد ملی را وارد کنید"
+  }
+}
